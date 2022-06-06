@@ -31,7 +31,7 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: 'https://t.me/Cyber_FCracker'
     }
 }, {
   urlButton: {
